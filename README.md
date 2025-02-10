@@ -35,7 +35,7 @@ A simple and responsive OTP (One-Time Password) verification system using **HTML
 5. Click **"Resend OTP"** to generate a new OTP.
 
 ## 📌 Live Demo:
-🔗 [Live Project Demo](your-demo-link.com)
+🔗 https://khushigupta-23.github.io/AutoVerify-OTP/
 
 
 **Made with ❤️ by [khushi gupta](https://github.com/Khushigupta-23)**
